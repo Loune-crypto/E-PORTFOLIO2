@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html> 
+<head> <title> BANAN_E-PORTFOLIO2 </title> 
+  <style type="text/css">
+
+h1 {text-align:center; 
+font-family:Pristina; 
+font-weight:bold;
+color:#93f0f4;
+letter-spacing:2 px;}
+
+ul li {font-family:MV Boli;
+font-size:13 pt;
+color:#93f0f4;}
+
+tr td {font-family:MV Boli;
+font-size:13pt;
+color:#93f0f4;}
+
+h5 {text-align:left;
+font-family:MV Boli; 
+font-size:13 pt;
+background-color:#ffef96;
+color:#937135;}
+
+h4 {text-align:left; 
+font-family: Pristina;
+font-size: 30 pt;
+color:#93f0f4;
+background-color:#4481d4;
+letter-spacing:2 px;
+text-indent:5 %;}
+
+ </style>
+<link rel="stylesheet" href="port.css" type="text/css"> 
+ </head>
+<div class="port"> 
+<h1 style=background-color:#003091;> q(≧▽≦q) WELCOME TO MY E-PORTFOLIO PT. 2! ヾ(≧▽≦*)o </h1>
+</div> 
+
+<table align="center" border="2" bordercolor="#50bff2" cellpadding="1" width="1330"> 
+<tr>
+<th> <a href="#"> Update on Owner </a> </th> 
+<th> <a href="#exp"> Second Quarter Experiences </a> </th>
+<th> <a href="#app"> Lesson Application </a> </th>
+<th> <a href="#ref"> Reflection! </a> </th>
+</tr> 
+</table>
+
+<table align="left" bgcolor="#4481d4" border="1" bordercolor="#50bff2" cellpadding="1" width="600"> 
+<tr>
+<td align="left" height="400" width="175"> <img src="update.png" height="500" width="175" alt="A picture that says: 'Update on Me!'"> </td>
+
+
+<td align="left" valign="top"> <h2> Some updates about me! </h2> 
+<ul type="disc"> 
+<li> I am now <b> 15 years old! </b> </li>
+<li><ol type="1"> <b> My Top 3 Favorite Songs Right Now: </b> 
+<li> <b> Kung 'Di Rin Lang Ikaw </b> <i> by December Avenue feat. Moira Dela Torre </i> </li> 
+<li> <b> Monster </b> <i> by Irene and Seulgi</i> </li> 
+<li> <b> Whistle </b> <i> by Blackpink </i> </li> 
+</ol> 
+<li> Here is the link to my first quarter portfolio: </li>
+<a href="https://loune-crypto.github.io/BANAN-EPORTFOLIO/BANAN%20EPORT.html#ref"> <p class="first"> First Quarter Portfolio </p> </a>
+<p> To the right are the music video, audio, and link for my favorite songs. </p>
+</li>
+</ul> 
+</td>
+</table>
+
+<a href="https://www.youtube.com/watch?v=P1pwbnzbe7g"> <p align="left" class="kung"> Kung 'Di Rin Lang Ikaw Music Video and Audio </p> </a>
+<video class="music1" width="300" height="100" controls>
+<source src="kungvid.mp4" type="video/mp4"> 
+</video> 
+ <audio controls>
+  <source src="kungaud.mp3" type="audio/mp3">
+ </audio>
+
+<a href="https://www.youtube.com/watch?v=Ujb-gvqsoi0"> <p align="justify" class="monster"> Monster Music Video and Audio </p> </a> 
+<video class="music1" width="300" height="100" controls>
+<source src="monstervid.mp4" type="video/mp4"> 
+</video> 
+ <audio controls>
+  <source src="monsteraud.mp3" type="audio/mp3">
+ </audio>
+
+<a href="https://www.youtube.com/watch?v=dISNgvVpWlo"> <p align="right" class="whistle"> Whistle Music Video and Audio </p> </a> 
+<video class="music1" width="300" height="100" controls>
+<source src="whistlevid.mp4" type="video/mp4"> 
+</video> 
+ <audio controls>
+  <source src="whistleaud.mp3" type="audio/mp3">
+ </audio>
+
+<hr style="background-color:#53b0e8; width:1350 px; height:20 px;">
+
+ <hr style="background-color:#87d4eb; width:1350 px; height:15 px;">
+
+ <hr style="background-color:#b0e2f1; width:1350 px; height:10 px;">
+
+<div class="port"> 
+<a name="exp"> <h2>（＞人＜；）MY SECOND QUARTER EXPERIENCES ¯\(°_o)/¯ </h2> </a>
+</div>
+
+<img src="activities.png" width="300" alt="A picture that says: 'Second Quarter Activities'" class="second">
+
+<span class="note"> <h5> Note: Since there were so many events held this quarter, I've decided to only pick the events that really marked my mind. Nonetheless, I can't stress enough how stressful and packed this quarter was with events. </h5> </span>
+
+<h4> MAPEH PLATES </h4> 
+<img src="plate1.jpg" alt="My MAPEH Plate which takes inspiration from the background of this webpage." class="plate1">
+<p class="explain"> After our lesson, we were tasked by our teacher to create a plate about two-point perspective. Since I was feeling lazy and had no inspiration at all, I just chose a reference from a game so that I'll feel energized to do it and I'll just easily copy its themes. </p>
+
+<div> <br> 
+<img src="plate2.jpg" alt="My MAPEH Plate which is all about the program: Buhay ay Ingatan, Droga'y Ayawan (BIDA)" class="plate2">
+<p class="explain"> For this plate, we were tasked to form a group consisting of 3 members. We had to make a poster all about how to fight drugs. From the three of us, I could say that I had the most contribution since I was the one who sketched everything and colored most of it or my members asked how to color it whenever they did. You could say that they were on the materials part and moral support. </p>
+
+<br> <br> <br> 
+
+<h4> AP MONTH - QUIZ BEE ( FOR JHS AND SHS) </h4> 
+<img src="qjhs.jpg" alt="AP Quiz Bee JHS" class="plate1">
+<img src="scorejhs.jpg" alt="Scores of AP Quiz Bee JHS" class="plate1">
+<p class="explain"> I was a PMT in the quiz bee part of that day because the Geolympiad was held at the same time. During that time, I was the timer for each question which went pretty smoothly except for the difficult questions presented in front. Some of the questions were from actual national and international competitions. </p>
+
+<div> <br> <br> <br> <br> <br> <br> 
+<img src="qshs.jpg" alt="AP Quiz Bee SHS" class="plate2">
+<img src="scoreshs.jpg" alt="AP Quiz Bee SHS" class="plate2">
+<p class="explain"> This is the SHS batch of the quiz bee. The questions were harder that's why you can see that the scores were lower. Unfortunately, after a lot of checking, I had to disqualify three individuals that day. I was so nervous  and I literally had to call them out for it. </p>
+
+<br> <br> <br> 
+
+<h4> AP MONTH - ORATORICAL COMPETITION </h4> 
+<img src="during1.jpg" alt="AP Oratorical Competition during the Grade 9 and 10 Batch" class="plate1">
+<img src="during2.jpg" alt="AP Oratorical Competition during the Grade 9 and 10 Batch" class="plate1">
+<p class="explain"> For this event, I was the chairperson for the Grade 9 and 10 batch. A chairperson usually just says when somebody stops or starts. It was so stressful because the printer got broken and each judge was supposed to have a copy of the oratorical piece that the contestants have made. In the pictures, I was the one in the formal attire on the right, standing up next to the judges. </p>
+
+<div> <br> <br> <br> <br> <br> <br> 
+<img src="award1.jpg" alt="Picture Taking after the whole Oratorical Competition including judges, AP teachers, and PMTs" class="plate2">
+<img src="award2.jpg" alt="Picture Taking after the whole Oratorical Competition including judges, AP teachers, and PMTs" class="plate2">
+<p class="explain"> After the stressful day, we ended with a picture taking. It included the judges for the SHS batch and our guest judges from other schools. </p>
+
+<br> <br> <br> <br> <br> <br> <br> <br>
+
+<h4> AP MONTH - HISTORICAL ICON </h4> 
+<img src="process.jpg" alt="A picture of us working on our historical icon costume" class="plate1"> 
+<img src="model.jpg" alt="A picture of our model in the costume" class="plate1">
+<p class="explain"> To the left are some pictures of the historical icon event. We spent a lot of time making it and unfortunately, we did not place. </p>
+
+<div> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
+<img src="aftermath.jpg" alt="The aftermath of the event" class="plate2">
+<p class="explain"> I had to bring home EVERYTHING because most of it was my supplies and others didn't take it home. The picture to the right didn't even include my schoolbags and my father had to help me take it all home. </p>
+
+<br> <br> <br> <br> <br> 
+
+<h4> ENGLISH MONTH </h4> 
+<img src="opening.jpg" alt="Opening of English Month with all of us in costumes." class="plate1"> 
+<p class="explain"> It was a Monday and we all were encouraged to dress up as a book character for the start of English Month. </p>
+
+<div> <br> <br> <br> <br> <br> <br> <br> 
+<video class="plate2" width="500" height="300" controls>
+<source src="mrms.mp4" type="video/mp4"> 
+</video> 
+<p class="explain"> This is a video of our representatives for Mr. and Ms. Booklandia. Their presentation was good though I think the microphones definitely did not help since it was malfunctioning. </p>
+
+<br> <br> <br> <br> <br> <br> <br> <br>
+
+<h4> CLUSTER MEET </h4> 
+<img src="lpsci.jpeg" alt="The match of LPSCi Volleyball girls" class="plate1">
+<img src="north.jpeg" alt="The match of LPNorth Volleyball boys" class="plate1">
+<p class="explain"> It was the cluster meet and we were really surprised at how good the other teams were. It showed that the normal high schools were definitely in the lead when it came to sports compared to our school. </p>
+
+<div> <br> <br> <br> <br> <br> <br> 
+<img src="tall.jpg" alt="A stack of coins wrapped in tape" class="plate2">
+<img src="back.jpg" alt="A stack of coins wrapped in tape" class="plate2">
+<p class="explain"> Me and my friend were just messing around since he had to pay his debt to a classmate of ours, he asked me to wrap it all in tape. The person we gave it to obviously got annoyed at him. </p>
+
+
+<hr style="background-color:#53b0e8; width:1350 px; height:20 px;">
+
+ <hr style="background-color:#87d4eb; width:1350 px; height:15 px;">
+
+ <hr style="background-color:#b0e2f1; width:1350 px; height:10 px;">
+
+<div class="port"> 
+<a name="app"><h2> ＞﹏＜ LESSON APPLICATIONS o((⊙﹏⊙))o. </h2></a> 
+</div> 
+
+<img src="lesson12.png" alt="Application of Lesson 1 and 2" width="1330"> 
+
+<img src="lesson3.png" alt="Application of Lesson 3" width="1330"> 
+
+<img src="lesson4.png" alt="Application of Lesson 4" width="1330"> 
+
+<img src="lesson5.png" alt="Application of Lesson 5" width="1330"> 
+
+<img src="lesson6.png" alt="Application of Lesson 6" width="1330"> 
+
+<img src="lesson7.png" alt="Application of Lesson 7" width="1330"> 
+
+
+<hr style="background-color:#53b0e8; width:1350 px; height:20 px;">
+
+ <hr style="background-color:#87d4eb; width:1350 px; height:15 px;">
+
+ <hr style="background-color:#b0e2f1; width:1350 px; height:10 px;">
+
+<div class="port"> 
+<a name="ref"> <h2>（＞人＜；）REFLECTION (*^▽^*) </h2></a>
+</div>
+
+<p class="explain"> For this quarter I definitely experienced a lot of ups and downs. From all the lessons and presentations sent to us, I had a deeper understanding of coding in CSS. I also finally got to do what I wanted with the wide array of codes that CSS has. Unfortunately, I've recently been getting so sick that I've been behind on some tasks which is why I'm probably passing this late too. Nevertheless, I'm looking forward to the next quarter (not really).  </p> 
+
+</body>
+</html>
